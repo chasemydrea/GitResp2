@@ -3,7 +3,7 @@ package com.msd;
 public class Person {
     public static void main(String[]args){
       personInformation("小玉");
-      String name = personInformation("小王");
+      String name = personInformation("小魏");
       System.out.println(personInformation("小玉"));
 
     }
